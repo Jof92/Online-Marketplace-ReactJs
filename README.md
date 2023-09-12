@@ -1,8 +1,14 @@
-#Online Marketplace com React Js
+# Online Marketplace React JS
 
-Carrinho de Compras
+<div align="center">
 
-Este é um projeto de carrinho de compras desenvolvido com React JS. Ele permite listar produtos na tela, buscar produtos consumindo a API do Mercado Livre, adicionar produtos e remover produtos do carrinho.
+<img src="https://i.pinimg.com/originals/e7/31/3c/e7313cf4e2648d7170a034bdfe99894e.gif" width="300px"/>
+
+</div>
+
+## Carrinho de Compras
+
+Este é o projeto de um aplicativo de compras criado usando React JS. Ele oferece funcionalidades como exibir uma lista de produtos na tela, buscar produtos através da API do Mercado Livre, permitindo que os usuários adicionem produtos ao carrinho e também removam itens do carrinho quando desejarem
 
 ## Funcionalidades
 
@@ -17,3 +23,21 @@ Este é um projeto de carrinho de compras desenvolvido com React JS. Ele permite
 - HTML5: linguagem de marcação para estruturar o conteúdo da aplicação.
 - CSS3: linguagem de estilo para estilizar a interface do usuário.
 - API do Mercado Livre: utilizada para obter dados de produtos.
+
+  <br><br>
+
+<div align="center">
+ 
+## <a href="https://online-marketplace-react-js.vercel.app/"> Acesse a página do Online Marketplace aqui</a> <br><br><br>
+
+</div> 
+<div align="center">
+<a href="https://jof-portfolio.vercel.app/"> Acess my Portfolio's page here </a> <br><br><br>
+</div>
+
+### Find me here!
+
+
+[![alttext](https://img.icons8.com/color/48/linkedin-circled--v1.png)](https://www.linkedin.com/in/jof-frota/) [![alttext](https://img.icons8.com/cute-clipart/48/instagram-new.png)](https://www.instagram.com/js.frota/) [![alttext](https://img.icons8.com/color/48/whatsapp--v1.png)](https://wa.me/+5585996204919) [![alttext](https://img.icons8.com/color/48/apple-mail.png)](jof@frota@hotmail.com)
+
+
