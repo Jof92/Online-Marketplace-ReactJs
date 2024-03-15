@@ -7,7 +7,7 @@ function Header () {
   return (
     <header className="header">
       <div className="container">
-      
+        <img src="https://cdn.jsdelivr.net/gh/Jof92/Jof923@main/fs4.png" alt="Logo FastSell" />
         <SearchBar/>
         <CartButton/>
 
