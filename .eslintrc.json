@@ -15,5 +15,6 @@
         "react"
     ],
     "rules": {
+        "@typescript-eslint/restrict-plus-operands": "off" // Turning off the rule
     }
 }
